@@ -1,6 +1,6 @@
 # 📐 Ecuaciones de Daño - Angry Birds Star Wars
 
-# Archivo generado con la IA Kiro, por lo que tiene errores, no tomen esta información como oficial, hay que hacer una mejor ingenieria inversa en el Juego, asi que si hay mas actualizaciones de informacion, la sabran por el canal de YouTube FelipeBird YT.
+### Archivo generado con la IA Kiro, por lo que tiene errores, no tomen esta información como oficial, hay que hacer una mejor ingenieria inversa en el Juego, asi que si hay mas actualizaciones de informacion, la sabran por el canal de YouTube FelipeBird YT.
 
 ## Análisis de Archivos .lua del Juego Original
 
